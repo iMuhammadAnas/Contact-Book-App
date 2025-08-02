@@ -28,7 +28,7 @@ This app allows users to register, log in with session-based authentication, and
 
 ## 🚀 How to Run Locally
 
-### 1. Clone the Repository
+## 1. Clone the Repository
 
 - git clone https://github.com/iMuhammadAnas/Contact-Book-App.git
 - cd Contact-Book-App
